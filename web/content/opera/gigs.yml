@@ -1,0 +1,850 @@
+################
+# HADRIAN (2018)
+################
+
+- title:
+    text: Hadrian
+    lang: en
+
+  link: https://www.coc.ca/productions/16480
+
+  description: I covered the <strong>Superior Senator</strong> for the Canadian Opera Company.
+
+  tags:
+    - world premiere
+    - wainwright
+    - macivor
+    - debus
+    - hinton
+
+########################
+# THE NIGHTINGALE (2018)
+########################
+
+- title:
+    text: The Nightingale
+    lang: en
+
+  link: https://www.coc.ca/
+
+  description: I performed the <strong>Bonze</strong> for the Canadian Opera Company.
+
+  tags:
+    - stravinsky
+    - debus
+    - lepage
+
+####################
+# ANNA BOLENA (2018)
+####################
+
+- title:
+    text: Anna Bolena
+    lang: it
+
+  link: https://www.coc.ca/
+
+  description: I covered <strong>Lord Rochefort</strong> for the Canadian Opera Company.
+
+  tags:
+    - donizetti
+    - rovaris
+    - lawless
+
+##############
+# BOUND (2017)
+##############
+
+- title:
+    text: BOUND
+    lang: en
+
+  link: http://againstthegraintheatre.com/bound/
+
+  description: I performed <strong>Paul Muller</strong> for Against the Grain Theatre.
+
+  tags:
+    - handel
+    - lau
+    - mokrzewski
+    - ivany
+
+  reviews:
+    - quotation: Bass Michael Uloth brought a rich, melifluous tone and a striking figure to the stage. His singing is rich and low without feeling woofy or manufactured.
+      source: Greg Finney, Schmopera
+      link: https://www.schmopera.com/equal-parts-stressful-and-reverent-atgbound/
+    - quotation: It requires no small amount of courage on the part of a bass to sing a piece originally written for castrato. To his abiding credit, Uloth enthusastically embraces the challenge, tackling [the] deservedly-celebrated "Ombra mai fu"...with a fine sense of proportion.
+      source: Ian Ritchie, Opera Going Toronto
+      link: http://operagoto.com/bound-review/
+    - quotation: Uloth conveys his despair through the well-known “Ombra mai fu” from Serse...he gave a tender interpretation of this challenging aria.
+      source: Matthew Timmermans, Ludwig van Toronto
+      link: https://www.ludwig-van.com/toronto/2017/12/18/scrutiny-bound-started-as-handel-but-ended-as-against-the-grain/
+
+###################
+# KOPERNIKUS (2017)
+###################
+
+- title:
+    text: Kopernikus
+    lang: de
+
+  link: http://againstthegraintheatre.com/category/kopernikus/
+
+  description: I performed <strong>Bass (Merlin)</strong> for the Banff Centre for Arts and Creativity.
+
+  tags:
+    - vivier
+    - mokrzewski
+    - ivany
+
+  reviews:
+    - quotation: Bass Michael Uloth’s Merlin was beckoning, intense, and often played the voice of cosmic joy (wow — can he ever laugh at top volume, too).
+      source: Stephan Bonfield, National Post
+      link: http://nationalpost.com/entertainment/music/review-viviers-kopernikus-at-banff-centre-the-ideal-opera-of-the-future/wcm/88611ef6-616b-4692-a789-52de62554fae
+    - quotation: Micah Schroeder, Adam Harris and bass Michael Uloth provide a depth of countervailing robustness and resonance...
+      source: Ian Ritchie, Opera Going Toronto
+      link: http://operagoto.com/kopernikus-review/
+
+#####################
+# THE APOSTLES (2017)
+#####################
+
+- title:
+    text: The Apostles
+    lang: en
+
+  link: http://www.paxchristichorale.org
+
+  description: I performed <strong>Judas</strong> for Pax Christi Chorale.
+
+  tags:
+    - elgar
+    - martin
+
+  reviews:
+    - quotation: Michael Uloth carried the drama of the second half of the work, being the main character of Judas in Part IV including the longest piece of exposition in the entire work in “The Betrayal.” Providing a clear interpretation, his voice carried as the changing orchestrations underlay.
+      source: Brian Chang, Ludwig Van Toronto
+      link: https://www.ludwig-van.com/toronto/2017/05/01/scrutiny-a-surprising-rendition-with-pax-christi-chorales-the-apostles/
+    - quotation: The two important roles with the most manifest suffering were wonderfully realized by mezzo Krisztina Szabo as Mary Magdalene and bass Michael Uloth as Judas.
+      source: Jeff Dunn, American Record Guide
+      link: http://www.americanrecordguide.com
+    - quotation: She was blessed with six of the finest singers in Canada as her soloists – Meredith Hall, Krisztina Szabo, Lawrence Wiliford, Brett Polegato, Daniel Lichti and Michael Uloth – each of whom were in great voice and distinguished themselves with powerful, communicative performances.
+      source: Larry Beckwith, Masque Ideas
+      link: https://torontomasqueblog.wordpress.com/2017/05/01/two-extraordinary-concerts-and-an-announcement/
+
+########################
+# DIE ZAUBERFLÖTE (2017)
+########################
+
+- title:
+    text: Die Zauberflöte
+    lang: de
+
+  link: https://www.coc.ca
+
+  description: I covered <strong>2nd Armed Man</strong> for the Canadian Opera Company.
+
+  tags:
+    - mozart
+    - labadie
+    - paulus
+
+######################################
+# DON PASQUALE (SASKATOON OPERA, 2012)
+######################################
+
+- title:
+    text: Don Pasquale
+    lang: it
+
+  link: http://www.saskatoonopera.ca
+
+  description: I performed <strong>Don Pasquale</strong> for Saskatoon Opera.
+
+  tags:
+    - donizetti
+    - biernacki
+    - powell
+
+  reviews:
+    - quotation: '...a hapless-looking Pasquale [was] played with comic buffoonery by Michael Uloth...'
+      source: Opera Canada
+      link: https://www.thefreelibrary.com/SASKATOON.-a0307790286
+
+########################
+# THE NIGHTINGALE (2012)
+########################
+
+- title:
+    text: The Nightingale
+    lang: en
+
+  link: https://www.opera-lyon.com/
+
+  description: I performed the <strong>Bonze</strong> for l'Opéra National de Lyon.
+
+  tags:
+    - stravinsky
+    - pérez
+    - lepage
+
+########################################
+# DON PASQUALE (SEATTLE OPERA YAP, 2012)
+########################################
+
+- title:
+    text: Don Pasquale
+    lang: it
+
+  link: https://seattleopera.org
+
+  description: I performed <strong>Don Pasquale</strong> for the Seattle Opera Young Artists Program.
+
+  tags:
+    - donizetti
+    - garman
+    - kazaras
+
+  reviews:
+    - quotation: The story...needs plenty of help from the acting and visuals to keep it alive and here the young singers excelled, particularly Uloth and Opuszynski, who have the lion’s share of the funny side of things.
+      source: Philippa Kiraly, The Sun Break
+      link: http://thesunbreak.com/2012/04/03/young-artists-don-pasquale-is-a-walk-on-the-funny-side-of-the-street/
+    - quotation: The youthful Uloth portrays a creaky-jointed septuagenarian with a little pot belly and a long skinny face... His mannerisms fit the picture, especially his efforts to sit down and get up again.
+      source: Philippa Kiraly, The Sun Break
+      link: http://thesunbreak.com/2012/04/03/young-artists-don-pasquale-is-a-walk-on-the-funny-side-of-the-street/
+    - quotation: Canadian bass Michael Uloth was a certifiably clueless Don Pasquale.
+      source: Hedonista, Heed the Hedonist
+      link: http://www.heedthehedonist.com/two-shows-left-this-weekend-don-pasquale
+
+################
+# WERTHER (2011)
+################
+
+- title:
+    text: Werther
+    lang: de
+
+  link: https://seattleopera.org
+
+  description: I performed <strong>Le Bailli</strong> for the Seattle Opera Young Artists Program.
+
+  tags:
+    - massenet
+    - rhodes
+    - kazaras
+
+  reviews:
+    - quotation: Bass Michael Uloth has only a cameo role but it’s enough to make one want to hear more of him.
+      source: Philippa Kiraly, The Sun Break
+      link: http://thesunbreak.com/2011/11/21/a-riveting-werther-from-seattle-operas-young-artists/
+
+##########################
+# ARIADNE AUF NAXOS (2011)
+##########################
+
+- title:
+    text: Ariadne auf Naxos
+    lang: de
+
+  link: https://www.coc.ca
+
+  description: I performed <strong>Truffaldino</strong> for the Canadian Opera Company.
+
+  tags:
+    - strauss
+    - davis
+    - armfield
+
+  reviews:
+    - quotation: The male quartet (John Easterlin, Peter Barrett, Michael Uloth and Christopher Enns) was a gift that kept on giving at every turn. It's difficult to imagine their roles performed better in any way.
+      source: Lydia Perovic, Definitely the Opera
+      link: https://definitelytheopera.wordpress.com/2011/05/04/ariadne-auf-toronto/
+
+########################
+# THE NIGHTINGALE (2011)
+########################
+
+- title:
+    text: The Nightingale
+    lang: en
+
+  link: https://www.bam.org
+
+  description: I covered the <strong>Emperor</strong> and performed the <strong>Bonze</strong> for the Canadian Opera Company at the Brooklyn Academy of Music.
+
+  tags:
+    - stravinsky
+    - debus
+    - lepage
+
+  reviews:
+    - quotation: All the cast members of The Nightingale have become incredible puppeteers in their own right. Lothar Odinius, the Fisherman, and Michael Uloth, the Bonze, in particular, have infused such life into their puppets that you're almost fooled into believing these figures have come alive.
+      source: Jennifer Pugsley, Learn.COC.ca
+      link: https://learn.coc.ca/coc-news?entryid=1733
+
+###############
+# RENARD (2011)
+###############
+
+- title:
+    text: Renard
+    lang: fr
+
+  link: https://www.bam.org
+
+  description: I covered <strong>Bass</strong> for the Canadian Opera Company at the Brooklyn Academy of Music.
+
+  tags:
+    - stravinsky
+    - debus
+    - lepage
+
+########################
+# DIE ZAUBERFLÖTE (2011)
+########################
+
+- title:
+    text: Die Zauberflöte
+    lang: de
+
+  link: https://www.coc.ca
+
+  description: I performed <strong>Sarastro</strong> one night and <strong>2nd Armed Man</strong> in all other performances for the Canadian Opera Company.
+
+  tags:
+    - mozart
+    - debus
+    - paulus
+
+  reviews:
+    - quotation: Michael Uloth as Sarastro impressed the most. He controlled his remarkable old-man basso with a twinkle in the eye and made the abysmally low notes appear an easy game.
+      source: Lydia Perovic, Definitely the Opera
+      link: https://definitelytheopera.wordpress.com/2011/02/22/about-town/
+    - quotation: Uloth did a great job, whether in the lovely legato in both his arias, his confident low notes, and particularly in the profundity of his final lines.
+      source: Leslie Barcza, Barzablog
+      link: https://barczablog.com/2011/02/18/opera-made-in-canada/
+    - quotation: Michael Uloth brought a sense of wisdom as well as warmth to Sarastro.
+      source: Jon Kaplan, NOW Magazine
+      link: https://nowtoronto.com/culture/stage/scenes-2011-02-24/
+    - quotation: Michael Uloth proved superior as a singer (and vastly superior as an actor) to his counterpart.
+      source: Arthur Kaptainis, National Post
+      link: http://nationalpost.com/entertainment/music/the-coc-ensemble-gets-magical
+
+########################
+# DEATH IN VENICE (2010)
+########################
+
+- title:
+    text: Death in Venice
+    lang: en
+
+  link: https://www.coc.ca
+
+  description: I performed <strong>Priest in St. Mark's</strong> and <strong>Youth</strong> for the Canadian Opera Company.
+
+  tags:
+    - britten
+    - bedford
+    - oida
+
+#############
+# AIDA (2010)
+#############
+
+- title:
+    text: Aida
+    lang: it
+
+  link: https://www.coc.ca
+
+  description: I covered <strong>Ramfis</strong> for the Canadian Opera Company.
+
+  tags:
+    - verdi
+    - debus
+    - albery
+
+#################
+# IDOMENEO (2010)
+#################
+
+- title:
+    text: Idomeneo
+    lang: it
+
+  link: https://www.coc.ca
+
+  description: I covered <strong>Voice of Neptune</strong> for the Canadian Opera Company (and sang one performance).
+
+  tags:
+    - mozart
+    - bicket
+    - de carpentries
+
+#########################
+# LA SERVA PADRONA (2010)
+#########################
+
+- title:
+    text: La Serva Padrona
+    lang: it
+
+  link: https://www.coc.ca
+
+  description: I performed <strong>Uberto</strong> for the Canadian Opera Company Ensemble Studio.
+
+  tags:
+    - pergolesi
+    - larlee
+    - newton
+
+############################
+# ST. MATTHEW PASSION (2010)
+############################
+
+- title:
+    text: St. Matthew Passion
+    lang: en
+
+  link: http://vpchoir.squarespace.com
+
+  description: I performed <strong>Jesus</strong> for the Victoria Philharmonic Choir and Victoria Symphony.
+
+  tags:
+    - bach
+    - butterfield
+
+###############
+# OTELLO (2010)
+###############
+
+- title:
+    text: Otello
+    lang: it
+
+  link: https://www.coc.ca
+
+  description: I covered <strong>Lodovico</strong> for the Canadian Opera Company.
+
+  tags:
+    - verdi
+    - olmi
+    - curran
+
+###############
+# CARMEN (2010)
+###############
+
+- title:
+    text: Carmen
+    lang: fr
+
+  link: https://www.coc.ca
+
+  description: I covered <strong>Zuniga</strong> for the Canadian Opera Company.
+
+  tags:
+    - verdi
+    - r. macdonald
+    - way
+
+########################
+# THE NIGHTINGALE (2009)
+########################
+
+- title:
+    text: The Nightingale
+    lang: en
+
+  link: https://www.coc.ca
+
+  description: I covered the <strong>Emporer</strong> and performed the <strong>Bonze</strong> for the Canadian Opera Company.
+
+  tags:
+    - stravinsky
+    - darlington
+    - lepage
+
+###############
+# RENARD (2009)
+###############
+
+- title:
+    text: Renard
+    lang: fr
+
+  link: https://www.coc.ca
+
+  description: I covered <strong>Bass</strong> for the Canadian Opera Company.
+
+  tags:
+    - stravinsky
+    - darlington
+    - lepage
+
+#########################
+# MADAMA BUTTERFLY (2009)
+#########################
+
+- title:
+    text: Madama Butterfly
+    lang: it
+
+  link: https://www.coc.ca
+
+  description: I performed the <strong>Imperial Commissioner</strong> for the Canadian Opera Company.
+
+  tags:
+    - puccini
+    - montanaro
+    - b. macdonald
+
+#########################
+# LORD NELSON MASS (2009)
+#########################
+
+- title:
+    text: Lord Nelson Mass
+    lang: en
+
+  link: http://www.elorafestival.ca
+
+  description: I performed <strong>Bass Soloist</strong> for the Elora Festival.
+
+  tags:
+    - haydn
+    - edison
+
+  reviews:
+    - quotation: Bass Michael Uloth...performed admirably. His voice has an interesting timbre with a slight edge that gives it particular definition and cuts through, particularly in the lower register.
+      source: Stephen Preece, The Record
+      link: https://www.therecord.com
+
+#######################
+# COSÌ FAN TUTTE (2009)
+#######################
+
+- title:
+    text: Così fan tutte
+    lang: it
+
+  link: https://www.coc.ca
+
+  description: I performed <strong>Don Alfonso</strong> for the Canadian Opera Company Ensemble Studio.
+
+  tags:
+    - mozart
+    - isepp
+    - albano
+
+  reviews:
+    - quotation: Then there's Michael Uloth, a very impressive young bass...Uloth was note-perfect. He also has the kind of unstrained security and confidence that allows you to just sit back, relax and enjoy the performance.
+      source: Michael Crabb, CBC Radio 1
+      link: http://www.cbc.ca/radio/
+    - quotation: The cynical Don Alfonso was urbanely and slyly played by bass Michael Uloth...
+      source: Ken Winters, The Globe & Mail
+      link: https://www.theglobeandmail.com/arts/a-stylish-approach-to-mozarts-opera/article4276598/
+
+##################################
+# A MIDSUMMER NIGHT'S DREAM (2009)
+##################################
+
+- title:
+    text: A Midsummer Night's Dream
+    lang: en
+
+  link: https://www.coc.ca
+
+  description: I covered <strong>Theseus</strong> and performed <strong>Snug</strong> for the Canadian Opera Company.
+
+  tags:
+    - britten
+    - manson
+    - armfield
+
+  reviews:
+    - quotation: The Rustics' play (which also featured tenor Michael Barrett, bass-baritone Thomas Goerz, baritone Alexander Hajek and bass Michael Uloth) was very funny to witness, and to hear, thanks to Britten's wicked parodies of French and Italian opera.
+      source: Robert Everett-Green, The Globe & Mail
+      link: https://www.theglobeandmail.com/arts/magical-midsummer-night-a-dream-come-true/article4193525/
+
+##################
+# LA BOHÈME (2009)
+##################
+
+- title:
+    text: La Bohème
+    lang: fr
+
+  link: https://www.coc.ca
+
+  description: I covered <strong>Colline</strong> for the Canadian Opera Company.
+
+  tags:
+    - puccini
+    - kovatchev
+    - powell
+
+#########################
+# SIMON BOCCANEGRA (2009)
+#########################
+
+- title:
+    text: Simon Boccanegra
+    lang: it
+
+  link: https://www.coc.ca
+
+  description: I covered <strong>Pietro</strong> for the Canadian Opera Company.
+
+  tags:
+    - verdi
+    - guidarini
+    - judge
+
+####################
+# WAR & PEACE (2008)
+####################
+
+- title:
+    text: War and Peace
+    lang: en
+
+  link: https://www.coc.ca
+
+  description: I performed <strong>Gavrila</strong> for the Canadian Opera Company.
+
+  tags:
+    - prokofiev
+    - debus
+    - albery
+
+#####################
+# DON GIOVANNI (2008)
+#####################
+
+- title:
+    text: Don Giovanni
+    lang: it
+
+  link: https://www.coc.ca
+
+  description: I covered <strong>Masetto</strong> for the Canadian Opera Company.
+
+  tags:
+    - mozart
+    - lacey
+    - guarino
+
+###############
+# HAMLET (2008)
+###############
+
+- title:
+    text: Hamlet
+    lang: en
+
+  link: https://stratfordsummermusic.ca
+
+  description: I performed <strong>Polonius</strong> and <strong>Gravedigger</strong> for Stratford Summer Music.
+
+  tags:
+    - richards
+    - ferreira
+
+##################
+# RIGOLETTO (2008)
+##################
+
+- title:
+    text: Rigoletto
+    lang: it
+
+  link: http://www.saskatoonopera.ca
+
+  description: I performed <strong>Sparafucile</strong> for Saskatoon Opera.
+
+  tags:
+    - verdi
+    - biernacki
+    - montalbetti
+
+  reviews:
+    - quotation: My favorite was Michael Uloth the bass who played Sparafucile the assassin...that long low note at the end of the Rigoletto-Sparafucile duet was pretty impressive.
+      source: Cara, What the ?! ..... Chickens!
+      link: http://chickensinsaskatoon.blogspot.ca/2008/08/chickens-cultural-moment-rigoletto.html
+
+#########################
+# THE INDIAN QUEEN (2008)
+#########################
+
+- title:
+    text: The Indian Queen
+    lang: en
+
+  link: https://www.thestar.com/entertainment/music/review/2018/05/14/toronto-masque-theatres-goodbye-show-celebrated-its-finest-work.html
+
+  description: I performed <strong>High Priest</strong> and <strong>Hymen</strong> for Toronto Masque Theatre.
+
+  tags:
+    - purcell
+    - beckwith
+    - boyes
+
+  reviews:
+    - quotation: Two to watch are bass Michael Uloth and baritone Andrew Mahon. They both have rich, warm, hearty voices.
+      source: Paula Citron, Classical 102.9 FM
+      link: http://stg.classical1029fm.com/arts-reviews/indian-queen/
+
+#########################
+# ST. JOHN PASSION (2008)
+#########################
+
+- title:
+    text: St. John Passion
+    lang: en
+
+  link: https://www.metunited.org/jmv4/index.php/programs/music/music-programs/17-choirs
+
+  description: I performed <strong>Jesus</strong> for the Metropolitan Festival Choir.
+
+  tags:
+    - bach
+    - wright
+
+####################
+# ANNA BOLENA (2007)
+####################
+
+- title:
+    text: Anna Bolena
+    lang: it
+
+  link: http://operainconcert.com
+
+  description: I performed <strong>Enrico VIII</strong> for Opera in Concert.
+
+  tags:
+    - donizetti
+    - doucet
+    - silva-marin
+
+  reviews:
+    - quotation:
+        Uloth is clearly a talent on the rise...he nailed Enrico's capricious
+        character...
+      source: Paula Citron, Opera Canada
+      link: http://operacanada.ca
+
+################
+# L'ORFEO (2007)
+################
+
+- title:
+    text: L'Orfeo
+    lang: it
+
+  link: https://glimmerglass.org
+
+  description: I covered <strong>Caronte</strong> and <strong>Plutone</strong> for the Glimmerglass Festival.
+
+  tags:
+    - monteverdi
+    - walker
+    - alden
+
+###############
+# ORPHÉE (2007)
+###############
+
+- title:
+    text: Orphée
+    lang: fr
+
+  link: https://glimmerglass.org
+
+  description: I covered <strong>Poet</strong> and <strong>Judge</strong> for the Glimmerglass Festival.
+
+  tags:
+    - glass
+    - manson
+    - helfrich
+
+########################
+# DIE ZAUBERFLÖTE (2006)
+########################
+
+- title:
+    text: Die Zauberflöte
+    lang: de
+
+  link: http://www.guelphsymphony.com
+
+  description: I performed <strong>Sarastro</strong> for the Guelph Symphony Orchestra.
+
+  tags:
+    - mozart
+    - irving
+    - burton
+
+############################
+# OPERA WITHOUT WORDS (2006)
+############################
+
+- title:
+    text: Opera Without Words
+    lang: en
+
+  link: https://kwsymphony.ca
+
+  description: I performed <strong>Bass Soloist</strong> for the Kitchener-Waterloo Symphony.
+
+  tags:
+    - wilkins
+
+#####################################
+# AMAHL AND THE NIGHT VISITORS (2005)
+#####################################
+
+- title:
+    text: Amahl and the Night Visitors
+    lang: en
+
+  link: http://www.elorafestival.ca
+
+  description: I performed <strong>King Balthasar</strong> for the Elora Festival Singers.
+
+  tags:
+    - menotti
+    - edison
+
+##################
+# CELL LIFE (2005)
+##################
+
+- title:
+    text: Cell Life
+    lang: en
+
+  link: http://openears.ca
+
+  description: I performed <strong>Bass Soloist</strong> for the Open Ears Festival of Music and Sound.
+
+  tags:
+    - hatch
+    - mitchell
+
+#########################
+# MOZART'S REQUIEM (2004)
+#########################
+
+- title:
+    text: Mozart's Requiem
+    lang: en
+
+  link: http://www.grandriverchorus.com
+
+  description: I performed <strong>Bass Soloist</strong> for the Grand River Chorus.
+
+  tags:
+    - mozart
+    - phillips

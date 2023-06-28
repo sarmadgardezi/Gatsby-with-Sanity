@@ -1,0 +1,12 @@
+# Test new rules here: https://play.netlify.com/redirects
+
+# Redirect default Netlify subdomain to primary domain:
+https://michaeluloth.netlify.com/* https://www.michaeluloth.com/:splat 301!
+
+# Redirect old urls to new urls:
+/blog             /writes     301!
+/websites         /codes      301!
+/web-design       /codes      301!
+/opera            /sings      301!
+/tax-preparation  /           301!
+/contact          /           301!  

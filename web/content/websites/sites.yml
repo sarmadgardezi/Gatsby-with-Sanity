@@ -1,0 +1,506 @@
+# TODO: add links for new tools to Tools component in websites.js
+
+##################
+# GATSBY TUTORIALS
+##################
+
+- title: Gatsby Tutorials
+
+  link: https://www.gatsbytutorials.com/
+
+  repo: https://github.com/ooloth/gatsbytutorials.com
+
+  reviews:
+    - quotation: This is genius!
+      source: '@ajmalafif, Twitter'
+      link: https://twitter.com/ajmalafif/status/1062610482748522497
+    - quotation: Wow, how have I never seen this?
+      source: '@micahbrich, Twitter'
+      link: https://twitter.com/micahbrich/status/1086393968189952002
+
+  description: Open-source directory of GatsbyJS tutorials with 100+ stars on GitHub.
+
+  tools:
+    - react
+    - gatsby
+    - styled-components
+    - git
+    - github
+    - netlify
+
+############
+# STEVE HAID
+############
+
+- title: Steve Haid
+
+  link: https://www.stevehaid.com/
+
+  # description: I worked with designer Stephen Bell of <a href="http://coffeeshopcreative.ca" target="_blank" rel="noopener" class="link-inline">Coffeeshop Creative</a> to create an engaging marketing site for Toronto-based real estate agent Steve Haid.
+  description: Marketing site for a Toronto real estate agent. Designed by Stephen Bell.
+
+  tools:
+    - react
+    - gatsby
+    - styled-components
+    - react-spring
+    - xstate
+    - git
+    - github
+    - netlify
+
+##################
+# HOME CARE QUOTES
+##################
+
+- title: Home Care Quotes
+
+  link: https://www.homecarequotes.ca/home-care.html
+
+  description: Directory of Toronto home care agencies that uses geolocation to sort results by distance from the user's postal code. Designed by Stephen Bell.
+
+  tools:
+    - vue
+    - pug
+    - sass
+    - jquery
+    - git
+    - github
+    - geocoder.ca
+
+###############
+# AZOOR SOCIETY
+###############
+
+- title: AZOOR Society
+
+  link: https://www.azoorsociety.org
+
+  description: Informational site for a UK-based charity. Designed by Stephen Bell.
+
+  tools:
+    - react
+    - gatsby
+    - postcss
+    - tailwindcss
+    - react-spring
+    - xstate
+    - git
+    - github
+    - netlify
+
+###############
+# ALISON MORITZ
+###############
+
+- title: Alison Moritz
+
+  link: https://www.alisonmoritz.com
+
+  description: Portfolio site for an American stage director. Designed by Stephen Bell.
+
+  tools:
+    - react
+    - gatsby
+    - styled-components
+    - react-spring
+    - xstate
+    - git
+    - github
+    - netlify
+
+####################
+# J. PATRICK RAFTERY
+####################
+
+- title: J. Patrick Raftery
+
+  link: https://www.jpatrickraftery.com/
+
+  reviews:
+    - quotation: Ok...this has happened. After a few months of finding some time where no extra time exists my new website is up and running. Thanks so much to Michael Uloth for his fantastic design and advice. Please check out Michael's award winning web design site and check out his great work. Or check out his work on my own new site!
+      source: J. Patrick Raftery, Facebook
+      link: https://www.facebook.com/jpatrick.raftery/posts/10156736359656800
+
+  description: Portfolio site for an American opera singer and voice teacher.
+
+  tools:
+    - react
+    - gatsby
+    - postcss
+    - tailwindcss
+    - gsap
+    - git
+    - github
+    - netlify
+
+###############
+# LESLEY BARBER
+###############
+
+- title: Lesley Barber
+
+  link: https://www.lesleybarber.com
+
+  description: Portfolio site for a Canadian film composer.
+
+  tools:
+    - react
+    - gatsby
+    - styled-components
+    - xstate
+    - react-player
+    - git
+    - github
+    - netlify
+
+#####################
+# COFFEESHOP CREATIVE
+#####################
+
+- title: Coffeeshop Creative
+
+  link: https://www.coffeeshopcreative.ca
+
+  description: Marketing site for a Toronto web design and videography studio.
+
+  tools:
+    - react
+    - gatsby
+    - styled-components
+    - xstate
+    - git
+    - github
+    - netlify
+
+#############
+# ALAINA VIAU
+#############
+
+- title: Alaina Viau
+
+  link: https://www.alainaviau.com
+
+  reviews:
+    - quotation: Thank you for the wonderful platform and for making my work look so great!!
+      source: Alaina Viau, Facebook
+      link: https://www.facebook.com/alaina.viau.3/posts/10101533952315009
+
+  description: Portfolio site for a Canadian opera director. Designed by Stephen Bell.
+
+  tools:
+    - react
+    - gatsby
+    - styled-components
+    - xstate
+    - git
+    - github
+    - netlify
+
+###################
+# POMEGRANATE OPERA
+###################
+
+- title: Pomegranate Opera
+
+  link: https://pomegranateopera.netlify.com
+
+  reviews:
+    - quotation: 'Our fantastic website was made by the team at <a href="https://twitter.com/coffeescreative" target="_blank" rel="noopener" class="link-inline">@coffeescreative</a> right here in Toronto! Designers and developers who are also <a href="https://twitter.com/hashtag/operasingers?src=hash" target="_blank" rel="noopener" class="link-inline">#operasingers</a>! Thanks <a href="https://twitter.com/Sbelltenor" target="_blank" rel="noopener" class="link-inline">@Sbelltenor</a> <a href="https://twitter.com/ooloth" target="_blank" rel="noopener" class="link-inline">@ooloth</a> <a href="https://twitter.com/teiyakasahara" target="_blank" rel="noopener" class="link-inline">@teiyakasahara</a>.'
+      source: Pomegranate Opera, Twitter
+      link: https://twitter.com/pomopera/status/1039923201533505537?s=12
+
+  description: Marketing site for a new opera production. Designed by Stephen Bell.
+
+  tools:
+    - react
+    - gatsby
+    - postcss
+    - tailwindcss
+    - gsap
+    - git
+    - github
+    - netlify
+
+################
+# ASHLEY THOURET
+################
+
+- title: Ashley Thouret
+
+  link: https://www.ashleythouret.com
+
+  reviews:
+    - quotation: THANK YOU <a href="https://twitter.com/coffeescreative" target="_blank" rel="noopener" class="link-inline">@coffeescreative</a> for the beautiful website redesign!!!
+      source: Ashley Thouret, Twitter
+      link: https://twitter.com/AshleyThouret/status/1073219939278995456
+
+  description: Portfolio site for a Canadian opera singer. Designed by Stephen Bell.
+
+  tools:
+    - react
+    - gatsby
+    - postcss
+    - tailwindcss
+    - git
+    - github
+    - netlify
+
+##############
+# ARIA UMEZAWA
+##############
+
+- title: Aria Umezawa
+
+  link: https://www.ariaumezawa.com/
+
+  reviews:
+    - quotation: Today’s the day we launch my new website, thanks to the amazing <a href="https://twitter.com/coffeescreative" target="_blank" rel="noopener" class="link-inline">@coffeescreative</a>. The whole team was an absolute dream to work with, and came with such creative ideas. I couldn’t be more pleased.
+      source: Aria Umezawa, Twitter
+      link: https://twitter.com/umezawaria/status/994947044522389504
+    - quotation: Finally time to unveil my new website Designed by <a href="http://coffeeshopcreative.ca" target="_blank" rel="noopener" class="link-inline">Coffeeshop Creative</a>. They created this amazing minimalist design with bright colours and geometric shapes. Thrilled with the end result, and had a blast working with them.
+      source: Aria Umezawa, Facebook
+      link: https://www.facebook.com/umezawaria/photos/a.352185358613567.1073741828.341103669721736/375590169606419/
+
+  description: Portfolio site for a Canadian opera director. Designed by Stephen Bell.
+
+  tools:
+    - react
+    - gatsby
+    - postcss
+    - tailwindcss
+    - gsap
+    - git
+    - github
+    - netlify
+
+#####################
+# KINGS VALLEY PAVING
+#####################
+
+- title: Kings Valley Paving
+
+  link: https://kingsvalleypaving.com
+
+  reviews:
+    - quotation: Excited to launch our redesigned website! Big thanks to <a href="https://twitter.com/coffeescreative" target="_blank" rel="noopener" class="link-inline">@coffeescreative</a> for the great new design.
+      source: Kings Valley Paving, Twitter
+      link: https://twitter.com/KingsPaving/status/1050733579863543808
+
+  description: Marketing site for a Toronto paving company. Designed by Stephen Bell.
+
+  tools:
+    - react
+    - gatsby
+    - postcss
+    - tailwindcss
+    - gsap
+    - git
+    - github
+    - netlify
+
+###############
+# DANIEL CABENA
+###############
+
+- title: Daniel Cabena
+
+  link: https://www.danielcabena.com/
+
+  reviews:
+    - quotation: I’m thrilled to announce the launch today of my new website... Thanks to the brilliant team at Coffeeshop Creative for their careful attention and beautiful design.
+      source: Daniel Cabena, Facebook
+      link: https://www.facebook.com/danielcabenacountertenor/posts/2123903447862938
+
+  description: Portfolio site for a Canadian opera singer. Designed by Stephen Bell.
+
+  tools:
+    - react
+    - gatsby
+    - postcss
+    - tailwindcss
+    - gsap
+    - git
+    - github
+    - netlify
+
+#########
+# DG VOLO
+#########
+
+- title: DG Volo & Company
+
+  link: https://www.dgvolo.com
+
+  description: Marketing site for a Toronto advisory firm. Designed by Stephen Bell.
+
+  tools:
+    - react
+    - gatsby
+    - postcss
+    - tailwindcss
+    - gsap
+    - git
+    - github
+    - netlify
+
+###############
+# PETER BARRETT
+###############
+
+- title: Peter Barrett
+
+  link: https://www.peterbarrett.ca
+
+  description: Portfolio site for a Canadian opera singer. Designed by Stephen Bell.
+
+  tools:
+    - react
+    - gatsby
+    - postcss
+    - tailwindcss
+    - gsap
+    - git
+    - github
+    - netlify
+
+####################
+# ADRIANNE PIECZONKA
+####################
+
+- title: Adrianne Pieczonka
+
+  link: https://www.adriannepieczonka.com
+
+  description: Portfolio site for an internationally-celebrated Canadian opera singer.
+
+  tools:
+    - pug
+    - sass
+    - javascript
+    - tachyons
+    - gsap
+    - gulp
+    - git
+    - github
+    - netlify
+
+###############
+# EGO FILM ARTS
+###############
+
+- title: Ego Film Arts
+
+  link: http://www.egofilmarts.com/
+
+  description: Portfolio site for Canadian film and stage director Atom Egoyan.
+
+  tools:
+    - html
+    - css
+    - jquery
+
+####################
+# ILEANA MONTALBETTI
+####################
+
+- title: Ileana Montalbetti
+
+  link: https://ileanamontalbetti.netlify.com
+
+  description: Portfolio site for a Canadian opera singer.
+
+  tools:
+    - pug
+    - sass
+    - jquery
+    - tachyons
+    - scrollreveal
+    - git
+    - github
+    - netlify
+
+#############
+# ADAM LUTHER
+#############
+
+- title: Adam Luther
+
+  link: https://www.adamluthertenor.com/
+
+  description: Portfolio site for a Canadian opera singer.
+
+  tools:
+    - pug
+    - sass
+    - jquery
+    - tachyons
+    - scrollreveal
+    - git
+    - github
+    - netlify
+
+##############
+# LAURA ALBINO
+##############
+
+- title: Laura Albino
+
+  link: https://lauraalbino.netlify.com
+
+  description: Portfolio site for a Canadian opera singer.
+
+  tools:
+    - pug
+    - sass
+    - jquery
+    - tachyons
+    - scrollreveal
+    - git
+    - github
+    - netlify
+
+##############
+# SHAWNA LUCEY
+##############
+
+- title: Shawna Lucey
+
+  link: https://www.shawnalucey.com
+
+  reviews:
+    - quotation: My new website has LANDED!!! So excited! Thanks <a href="https://twitter.com/coffeescreative" target="_blank" rel="noopener" class="link-inline">@coffeescreative</a> for being so boss!!!!
+      source: Shawna Lucey, Twitter
+      link: https://twitter.com/shawna_lucey/status/1031638131764813825?s=12
+
+  description: Portfolio site for an American opera director. Designed by Stephen Bell.
+
+  tools:
+    - react
+    - gatsby
+    - postcss
+    - tailwindcss
+    - gsap
+    - git
+    - github
+    - netlify
+
+###############
+# ARTIST CENTER
+###############
+
+- title: Artist Center
+
+  link: https://artistcenter.netlify.com
+
+  description: Marketing site for a music industry social networking app. Designed by Stephen Bell.
+
+  tools:
+    - react
+    - gatsby
+    - postcss
+    - tailwindcss
+    - gsap
+    - git
+    - github
+    - netlify

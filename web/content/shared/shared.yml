@@ -1,0 +1,47 @@
+avatar:
+  file: ../../src/images/michael-uloth-square.jpg
+  objPos: 100% 0%
+
+navLinks:
+  - href: /
+    text: Home
+
+  - href: /writes/
+    text: Articles
+
+  - href: https://www.youtube.com/user/michaeluloth
+    text: Videos
+
+  - href: /codes/
+    text: Websites
+
+  - href: /sings/
+    text: Opera
+
+  - href: /likes/
+    text: Likes
+
+socialLinks:
+  - platform: YouTube
+    href: https://www.youtube.com/user/michaeluloth
+    srText: Subscribe to Michael's YouTube channel
+
+  - platform: Twitter
+    href: https://twitter.com/ooloth
+    srText: Follow Michael on Twitter
+
+  - platform: LinkedIn
+    href: https://www.linkedin.com/in/michael-uloth-848a1b98/
+    srText: Connect with Michael on LinkedIn
+
+  - platform: GitHub
+    href: https://github.com/ooloth
+    srText: Follow Michael on GitHub
+
+  - platform: Email
+    href: mailto:hello@michaeluloth.com
+    srText: Email Michael
+
+  - platform: RSS
+    href: https://www.michaeluloth.com/rss.xml
+    srText: Subscribe to Michael's RSS feed
